@@ -3,7 +3,6 @@
 # 🧠 Resumo de Habilidades
 
 ## 💻 Habilidades Técnicas (Hard Skills)
-
 -   Excel Avançado
 -   Criação de Dashboards e Indicadores (KPIs)
 -   Tabelas Dinâmicas e Modelagem de Dados
@@ -20,7 +19,6 @@
 ------------------------------------------------------------------------
 
 ## 🧩 Habilidades Analíticas e Cognitivas
-
 -   Raciocínio lógico
 -   Pensamento analítico
 -   Pensamento crítico
@@ -34,7 +32,6 @@
 ------------------------------------------------------------------------
 
 ## 🎓 Habilidades Interpessoais e Educacionais
-
 -   Comunicação clara e estruturada
 -   Didática
 -   Capacidade de simplificar conceitos complexos
@@ -49,7 +46,6 @@
 # 📈 Oportunidades de Mercado e Monetização
 
 ## 1️⃣ Serviços em Alta na Área de Atuação
-
 -   Desenvolvimento de dashboards gerenciais e financeiros em Excel\
 -   Automação de rotinas administrativas com VBA\
 -   Estruturação de controles financeiros para pequenas empresas\
@@ -63,7 +59,6 @@
 ------------------------------------------------------------------------
 
 ## 2️⃣ Habilidades Mais Procuradas por Pequenas Empresas
-
 -   Excel Avançado aplicado à gestão financeira\
 -   Automação de tarefas repetitivas\
 -   Criação de controles financeiros e fluxo de caixa\
@@ -78,21 +73,18 @@
 ## 3️⃣ Ideias Práticas para Ganhar Dinheiro com Essas Habilidades
 
 ### 💼 Prestação de Serviços
-
 -   Criar dashboards financeiros personalizados para pequenas empresas\
 -   Oferecer pacotes de automação em Excel\
 -   Organizar planilhas financeiras para MEIs e pequenos negócios\
 -   Estruturar documentação e PRDs para startups
 
 ### 🎓 Educação e Mentoria
-
 -   Criar curso de Excel aplicado à gestão financeira\
 -   Dar aulas particulares de lógica de programação\
 -   Oferecer mentoria para iniciantes em tecnologia\
 -   Produzir conteúdo técnico no YouTube, TikTok ou LinkedIn
 
 ### 💻 Produtos Digitais
-
 -   Vender templates de planilhas prontas\
 -   Criar modelos de dashboards prontos para download\
 -   Desenvolver e vender e-books práticos sobre organização financeira\
@@ -103,7 +95,6 @@
 # 📲 Posicionamento Digital e Comercial
 
 ## 1️⃣ Bio para Instagram -- Prestação de Serviços
-
 Especialista em organização financeira e automação com Excel
 Crio dashboards, automatizo processos e estruturo controles
 inteligentes
@@ -145,19 +136,16 @@ ou carreira.
 ## 3️⃣ Ideias de Conteúdo para TikTok -- Educação e Mentoria
 
 ### 🎥 Conteúdo Educacional Rápido
-
 -   "1 dica de Excel que economiza 30 minutos por dia"
 -   Como criar um mini-dashboard em 1 minuto
 -   Erros comuns ao organizar planilhas
 
 ### 🎥 Conteúdo Estratégico
-
 -   Como pequenas empresas perdem dinheiro por falta de controle
 -   Automatize isso e ganhe produtividade
 -   Como transformar dados em decisões inteligentes
 
 ### 🎥 Conteúdo Autoridade
-
 -   Antes e depois de uma planilha organizada
 -   Demonstração rápida de uma automação em VBA
 -   Bastidores de uma mentoria (sem expor cliente)
