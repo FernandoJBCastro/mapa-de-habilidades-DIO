@@ -1,4 +1,4 @@
-# 🗺️ Mapa de Habilidades
+# 🗺️ Mapa de Habilidades DIO
 
 Este repositório contém o resultado prático da atividade proposta no documento **Mapa de Habilidades.pdf** disponibilizado pela DIO.
 
