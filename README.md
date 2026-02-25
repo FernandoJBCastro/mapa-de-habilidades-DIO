@@ -1,12 +1,12 @@
 # 🗺️ Mapa de Habilidades DIO
 
-Este repositório contém o resultado prático da atividade proposta no documento **Mapa de Habilidades.pdf** disponibilizado pela DIO.
+Este repositório contém o resultado prático da atividade proposta **Identificando suas Habilidades que Podem ser Remuneradas**, conforme documento `Mapa de Habilidade.pdf`, disponibilizado pela DIO.
 
 O arquivo `Mapa de Habilidade DIO.md` representa a consolidação das três etapas descritas no material original:
 
 ## 📌 Estrutura da Proposta (Conforme PDF)
 
-De acordo com o documento **Mapa de Habilidades.pdf**, a atividade é dividida em três etapas principais:
+De acordo com o documento `Mapa de Habilidades.pdf`, a atividade é dividida em três etapas principais:
 
 ### 1️⃣ Etapa 1 – Inventário de Habilidades
 Identificação das habilidades técnicas, cognitivas e interpessoais, com apoio de Inteligência Artificial para ampliar a percepção sobre competências já desenvolvidas.
